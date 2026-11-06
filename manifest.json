@@ -1,0 +1,16 @@
+{
+ "name": "Seb",
+ "short_name": "Seb",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#0c070d",
+ "theme_color": "#0c070d",
+ "icons": [
+  {
+   "src": "icon.png?v=mw5e4t1l",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
